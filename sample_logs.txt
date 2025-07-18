@@ -1,0 +1,7 @@
+
+=== New logins detected at 2025-07-18 21:34:41 ===
+2025-07-18T21:05:01.577694+03:30 xxxx CRON[xxxx]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-07-18T21:15:01.705069+03:30 xxxx CRON[xxxx]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-07-18T21:17:01.764714+03:30 xxxx CRON[xxxx]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-07-18T21:25:01.255400+03:30 xxxx CRON[xxxx]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-07-18T21:30:01.337976+03:30 xxxx CRON[xxxx]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
